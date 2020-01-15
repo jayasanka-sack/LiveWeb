@@ -39,7 +39,6 @@ Read: [Development Best Practices at SEF](CONTRIBUTING.md)
 
 - Visit your app at http://localhost:9000
 
-
 <hr>
 
 Sustainable Education Foundation
