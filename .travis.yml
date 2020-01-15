@@ -7,3 +7,4 @@ matrix:
         - mvn install
     # Deploy PR to surge
     - script: bash scripts/surge_deploy.sh
+
