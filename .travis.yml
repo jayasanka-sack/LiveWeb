@@ -3,5 +3,3 @@ sudo: true
 script:
   - mvn install # Build the project using maven
   - bash scripts/surge_deploy.sh # Deploy PR to surge
-
-

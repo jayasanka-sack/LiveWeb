@@ -14,4 +14,4 @@ cd src/main/webapp
 # Create a domain to the PR
 export DEPLOY_DOMAIN=https://pr-${TRAVIS_PULL_REQUEST}-sef-site.surge.sh
 # Upload to surge.sh
-surge --project ./build --domain $DEPLOY_DOMAIN;
+surge --domain $DEPLOY_DOMAIN;
